@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/7/29 14:55:15。
+     1>项目“E:\c++\test\homework\homework.vcxproj”在节点 4 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\soft\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt work.c
+         work.c
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\homework.res" homework.rc 
+         
+     1>homework.rc(54): error RC2135: file not found: C:\Users\Administrator\Desktop\ooopic_1495761455.ico
+         
+     1>已完成生成项目“E:\c++\test\homework\homework.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.18

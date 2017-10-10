@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+e:\c\栈\栈\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\c\栈\栈\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\c\栈\栈\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\c\栈\栈\stdafx.cpp(53): warning C4715: “pop”: 不是所有的控件路径都返回值
+  栈.cpp
+e:\c\栈\栈\栈.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  栈.vcxproj -> E:\C\栈\Debug\栈.exe
+  栈.vcxproj -> E:\C\栈\Debug\栈.pdb (Partial PDB)
